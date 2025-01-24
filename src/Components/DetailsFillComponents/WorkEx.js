@@ -68,7 +68,7 @@ function WorkEx(props) {
         }
         return ans;
     }
-    let year =yearRange(2000,2023)
+    let year =yearRange(2000,2030)
   return (
     <div className='p-5' style={{textAlign:"left"}}>
         <h2 >Work Experience</h2>

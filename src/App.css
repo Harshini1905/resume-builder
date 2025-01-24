@@ -172,3 +172,19 @@ button:hover {
 .build-resume-btn:hover {
   background-color: #0056b3;
 }
+
+.text-field {
+  margin-bottom: 1rem;
+}
+
+.text-field label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.text-field input {
+  width: 100%;
+  padding: 0.5rem;
+  box-sizing: border-box;
+}
